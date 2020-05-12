@@ -1,0 +1,9 @@
+.page-header {
+  align-items: center;
+  display: flex;
+  min-height: 100px;
+}
+
+.page-header p {
+  margin: 0;
+}
